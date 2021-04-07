@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 5em;
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 3em;
+  color: rgb(47, 64, 112);
+}
+
+.sub {
+  color: #98c1d9;
+  font-weight: 700;
+  font-size: 3.5rem;
+}
