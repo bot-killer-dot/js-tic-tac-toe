@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://hamayun-cpu.github.io/Library/)
+[Live Demo Link](https://hamayun-cpu.github.io/js-tic-tac-toe/)
 
 ## Getting Started
 
