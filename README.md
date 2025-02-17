@@ -14,12 +14,12 @@
 
 ## Live Demo
 
-[Live Demo Link](https://hamayun-cpu.github.io/js-tic-tac-toe/)
+[Live Demo Link](https://bot-killer-dot.github.io/js-tic-tac-toe/)
 
 ## Getting Started
 
 **To get a copy of the code please click on the green button on the top right corner that says code**
-**And run in your console `https://github.com/hamayun-cpu/js-tic-tac-toe.git`**
+**And run in your console `https://github.com/bot-killer-dot/js-tic-tac-toe.git`**
 
 ### Prerequisites
 
@@ -29,11 +29,10 @@
 
 ## Author
 
-👤 **Hamayun Waheed**
+👤 **Ameer Farooq**
 
-- Github: [@githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed-3527381b2/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
 
 ## 🤝 Contributing
 
